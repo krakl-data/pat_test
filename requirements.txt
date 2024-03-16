@@ -1,4 +1,3 @@
 pandas==1.4.2
 pypdf==4.1.0
 streamlit==1.32.2
-~treamlit==1.32.2
